@@ -9,12 +9,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class Guia6ejecomperativoIronMan {
- static int i = 2;
+ 
     public static void main(String[] args) {
-     int [] v= new int [i];
-     v[1]=7;
-     v[2]=9;
-        System.out.println(v[1]);
+  
                 
 
 
